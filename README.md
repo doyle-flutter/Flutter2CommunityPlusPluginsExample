@@ -1,8 +1,7 @@
 # Flutter 2
 
 ### Flutter Community Plus Plugins Example
-### 조금 더 쉬운 패키지 사용 예제
-
+### 조금 더 쉬운 패키지 사용 예제 [Video](https://youtube.com/playlist?list=PLIKnSA4GMR4M6BB7cJnP64hrfMh2aM68d)
 - Connectivity
 - Device Info
 - Network Info
